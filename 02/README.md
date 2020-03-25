@@ -1,2 +1,2 @@
 - 直接运行 $ `jupyter notebook`
-- 选择Lena.ipynb文件即可打开
+- 选择02.ipynb文件即可打开
